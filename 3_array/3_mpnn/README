@@ -1,0 +1,7 @@
+# Edit parse_pdbs.py according to the need.
+#Edit input and output directories in prep.sh
+sbatch prep.sh
+#Wait for prep.sh to finish
+cd 07_23_2024_d5_PO4
+sbatch ../run.sh
+# make sure to git push to origin HEAD with modified scripts

@@ -1,0 +1,85 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.42+HEAD.3366cf78a3
+[COMMIT_DATE]: 2024-10-11T08:24:04
+[APPLICATION]: UNKNOWN APPLICATION
+[MODE]: Release
+[EXTRAS]: hdf5 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+NO OPTIONS SPECIFIED
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x761385fba37a]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xe0) [0x761385ff83f0]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libutility.so(+0x19e7e0) [0x761385fad7e0]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libutility.so(utility::options::OptionCollection::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::list<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >&, bool)+0x221) [0x7613860ff3c1]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libutility.so(utility::options::OptionCollection::load(int, char* const*, bool)+0x1db) [0x7613860ffd0b]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libcore.6.so(core::init::init_options(int, char**)+0x24) [0x76137eb0b6e4]
+/mnt/net/software/rosetta/versions/v2024.42-dev62134/main/source/build/src/release/linux/5.15/64/x86/gcc/11/hdf5/libcore.6.so(core::init::init(int, char**)+0x31) [0x76137eb0fa31]
+/software/rosetta/latest/bin/rosetta_scripts.hdf5.linuxgccrelease(+0x4676) [0x597a4b3e3676]
+/lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x7613859611ca]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x76138596128b]
+/software/rosetta/latest/bin/rosetta_scripts.hdf5.linuxgccrelease(+0x4d25) [0x597a4b3e3d25]
+
+[END_BACKTRACE]
+
+[FILE]: src/utility/options/OptionCollection.cc
+[LINE]: 572
+[START_MESSAGE]
+Option file open failed for: 'rosetta_scripts.flag'
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2025.13+HEAD.80dd00bc09
+[COMMIT_DATE]: 2025-03-27T08:32:50
+[APPLICATION]: UNKNOWN APPLICATION
+[MODE]: Release
+[EXTRAS]: hdf5 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "13.3.0"
+[STDLIB]: libstdc++ version 20240904
+[START_OPTIONS]
+NO OPTIONS SPECIFIED
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libutility.so(backtrace_string[abi:cxx11](int)+0x5b) [0x7f214f6bf24b]
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xd1) [0x7f214f702dc1]
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libutility.so(+0x19f4f1) [0x7f214f6b34f1]
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libutility.so(utility::options::OptionCollection::load(int, char* const*, bool)+0x1ee) [0x7f214f81ffbe]
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libcore.6.so(core::init::init_options(int, char**)+0x23) [0x7f2148069523]
+/mnt/net/software/rosetta/versions/v2025.13-dev62150/main/source/build/src/release/linux/6.8/64/x86/gcc/13/hdf5/libcore.6.so(core::init::init(int, char**)+0x2b) [0x7f214806e55b]
+/software/rosetta/latest/bin/rosetta_scripts.hdf5.linuxgccrelease(+0x46e6) [0x5a0ca72916e6]
+/lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x7f214f0661ca]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x7f214f06628b]
+/software/rosetta/latest/bin/rosetta_scripts.hdf5.linuxgccrelease(+0x4de5) [0x5a0ca7291de5]
+
+[END_BACKTRACE]
+
+[FILE]: src/utility/options/OptionCollection.cc
+[LINE]: 347
+[START_MESSAGE]
+ERROR: Unused "free" argument specified: /software/rosetta/latest/database
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+

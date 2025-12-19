@@ -1,0 +1,2 @@
+/software/containers/pyrosetta.sif get_breaks.py --input_directory /home/tracyy2/git/tip_atom_mineralization/chr_diffusion_multichain/C3/1_gen_bb/08_22_2024_d5_PO4 --output_directory 08_22_2024_d5_PO4
+

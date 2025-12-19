@@ -1,0 +1,19 @@
+
+EnvironmentNameNotFound: Could not find conda environment: mlfold
+You can list all discoverable environments with `conda info --envs`.
+
+
+504 sequence(s) to process
+Processing job with 504 sequence(s)
+Traceback (most recent call last):
+  File "/software/mlfold/mlfold.py", line 392, in <module>
+    job.process()
+  File "/software/mlfold/mlfold.py", line 304, in process
+    predictions = AlphaFold2.predict_sequences(self.data['sequences'], self.data['af_models'], self.data['af_nrecycles'], self.data['homoolig_state'], self.args.seed, self.data['min_pad'], self.data['max_pad'])
+  File "/net/software/lab/mlfold/modules/AlphaFold2.py", line 103, in predict_sequences
+    **pipeline.make_sequence_features(sequence=query_sequence*homoolig_state,
+  File "/net/software/lab/mlfold/alphafold/data/pipeline.py", line 37, in make_sequence_features
+    features['aatype'] = residue_constants.sequence_to_onehot(
+  File "/net/software/lab/mlfold/alphafold/common/residue_constants.py", line 579, in sequence_to_onehot
+    raise ValueError(f'Invalid character in the sequence: {aa_type}')
+ValueError: Invalid character in the sequence: /

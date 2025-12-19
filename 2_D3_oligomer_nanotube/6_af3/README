@@ -1,0 +1,1 @@
+/software/mlfold/mlfold.py --sequence-file /path/to/folder/ --no-pdbs or edit the .fa file in mlfold.sh and submit a sbatch file

@@ -1,0 +1,10 @@
+/software/containers/users/ikalvet/mlfold3/mlfold3_01.sif /net/software/lab/alphafold3/run_alphafold_custom.py --fasta /home/tracyy2/array_design/04_mlfold3/nC9.fa --run_data_pipeline=false --output_dir /home/tracyy2/array_design/04_mlfold3/outputs
+
+/software/containers/colabfold.sif colabfold_batch --msa-mode single_sequence --pair-mode unpaired_paired --model-type alphafold2_multimer_v3 --num-recycle 5 --recycle-early-stop-tolerance 0.05 --rank multimer --model-order 3 --num-models 1 nC9.fa outputs
+
+
+python gen_tasks_mlfold3.py --input_directory /home/tracyy2/array_design/03_mpnn/20250606_rempnn_array1-A1 --output_directory /home/tracyy2/array_design/04_mlfold3/20250606_rempnn_array1_A1  #use full path name of input_dir and output_dir
+
+python gen_tasks_mlfold3.py --input_directory /home/tracyy2/array_design/03_mpnn/20251001_rempnn --output_directory /home/tracyy2/array_design/04_mlfold3/20251001  #use full path name of input_dir and output_dir
+
+cd dir and do sbatch -a 1-$(cat tasks|wc -l) ../digs_array_job.sh

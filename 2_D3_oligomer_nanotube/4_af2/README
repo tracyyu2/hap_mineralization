@@ -1,0 +1,5 @@
+# edit the number of sequences in gen_task.py and how many chains to extract for dolding
+/software/containers/pyrosetta.sif gen_tasks_1chain.py --input_directory ../03_protein_mpnn_nterm/12_12_2024_run1_nterm --output_directory 12_12_2024_run1_nterm_1chain
+cd 07_22_2024_d5_OH
+sbatch -a 1-$(cat tasks|wc -l) ../run.sh
+

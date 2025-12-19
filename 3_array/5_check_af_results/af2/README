@@ -1,0 +1,3 @@
+#adjust RMSD values, looks like thread.py has size limit and would not finish all pdbs unless you separate them into a different folder and rerun
+/software/containers/pyrosetta.sif thread_4chains.py --input_directory ../04_colabfold/20251001 --output_directory 20251001 --reference_directory ../02_inspect_diffusion/20251001_rempnn_array53
+
