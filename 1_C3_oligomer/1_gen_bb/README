@@ -1,0 +1,6 @@
+#Example command to create tasks file
+#You will need to change directories
+/software/containers/pyrosetta.sif *py --input_directory /home/tracyy2/git/tip_atom_mineralization/chr_diffusion_multichain/C3/0_seeds/08_22_2024_d5_PO4 --output_directory 08_22_2024_d5_PO4 --RFdiffusion_directory /home/tracyy2/rf_diffusion_repeat/rf_diffusion_multichain --repeat_length_lower 58 --repeat_length_upper 67
+cd 07_22_2024_d5_OH_run2
+sbatch -a 1-(ntasks) ../run.sh
+

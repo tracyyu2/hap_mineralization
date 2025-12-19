@@ -1,0 +1,4 @@
+/software/containers/pyrosetta.sif gen_tasks.py --input_directory ../4_ligandmpnn/010_d5_tube_OH --output_directory 08_29_2024_d5_OH_unfixed
+cd 07_22_2024_d5_OH
+sbatch -a 1-$(cat tasks|wc -l) ../run.sh
+

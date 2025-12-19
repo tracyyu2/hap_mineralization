@@ -1,0 +1,2 @@
+#Edit run.sh to have input and output directories then run:
+sbatch -a 1-50 run.sh
