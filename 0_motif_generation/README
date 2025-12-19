@@ -1,9 +1,10 @@
-#step1:generate input pdbs for RFD2 (example HAp targets are under hap_target folder)
-#change the selections of tip residues
+#generate input pdbs for RFD2 (example HAp targets are under hap_target folder)
+#in gen_inputs.py change the selections of tip residues
 #change the permutations of Asp (D) or Glu (E) side chains 
 python gen_inputs.py
+#check outputs under input_motifs
 
-#go to tip_atom_fm, change project name, input and output directorys in design_campaign1_HAp,ipynb
+#go to /tip_atom_fm/, change project name, input and output directorys in design_campaign1_HAp,ipynb
 #submit generated batch script
 #check diffusion outputs
-#move to ../../C3/ for full backbone and sequence design
+#move to ../C3/ for full backbone and sequence design
