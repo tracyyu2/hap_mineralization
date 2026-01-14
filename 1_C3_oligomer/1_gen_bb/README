@@ -1,6 +1,6 @@
-#Example command to create tasks file
-#You will need to change directories
+#This script helps you to set up rf_diffusion_repeat. Example command to create tasks file with gen_tasks.py (change directories in the scripts)
+
 /software/containers/pyrosetta.sif *py --input_directory /home/tracyy2/git/tip_atom_mineralization/chr_diffusion_multichain/C3/0_seeds/08_22_2024_d5_PO4 --output_directory 08_22_2024_d5_PO4 --RFdiffusion_directory /home/tracyy2/rf_diffusion_repeat/rf_diffusion_multichain --repeat_length_lower 58 --repeat_length_upper 67
-cd 07_22_2024_d5_OH_run2
-sbatch -a 1-(ntasks) ../run.sh
+cd 07_22_2024_d5_OH_run2 #change
+sbatch -a 1-(ntasks) ../submit_repeat4_longmotif_020123.sh #change the number of tasks
 

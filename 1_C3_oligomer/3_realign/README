@@ -1,2 +1,3 @@
+#this realign.py helps you to align the diffusion outputs of the protein motifs back to the mineral target
 #Edit run.sh to have input and output directories then run:
 sbatch -a 1-50 run.sh

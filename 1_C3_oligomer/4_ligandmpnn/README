@@ -1,0 +1,4 @@
+#the ligandmpnn.ipynb helps you to set up ligandmpnn for protein sequence design
+#change directories in combine_pdb.py and run python combine_pdb.py to combine the pdbs of protein with mineral
+#python rename_files.py to rename combined pdb files
+#follow instructions in ligandmpnn.ipynb to generate tasks for running ligandmpnn

@@ -1,3 +1,5 @@
 #Change arguments to relevant directories
+#example run command 
 /software/containers/pyrosetta.sif gen_seeds.py --input_directory /net/scratch/tracyy2/HAp_binder_design_outputs/07_18_2024_design1/diffusion_out/test/ --output_directory test --reference_crystal /home/tracyy2/git/tip_atom_mineralization/motif_generator/input_motif/ --ctot 3
 
+#--ctot refers to how many chains in the designed oligomer. If designing C6 symmetric oligomers for example, change ctot to 6. 

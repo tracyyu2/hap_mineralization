@@ -1,1 +1,3 @@
+#this thread.py checks the rmsd between the af2 model and the design model and thread the sequences back to the design model if passes requirements. Change rhe rmsd threshold in the thread.py to tailor needs. See example run commands below:
+
 /software/containers/pyrosetta.sif thread.py --input_directory ../5_colabfold/08_29_2024_d5_OH_unfixed --output_directory 08_29_2024_d5_OH_unfixed --reference_directory ../3_realign/08_22_2024_d5_OH

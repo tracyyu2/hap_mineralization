@@ -1,0 +1,7 @@
+{
+  "input_directory": "/net/scratch/tracyy2/HAp_binder_design_outputs/07_18_2024_design1/diffusion_out/010_d5_tube_OH/",
+  "output_directory": "08_22_2024_d5_OH",
+  "reference_crystal": "/home/tracyy2/git/tip_atom_mineralization/motif_generator/input_motif/",
+  "crystal_size": "d3",
+  "ctot": 3
+}
