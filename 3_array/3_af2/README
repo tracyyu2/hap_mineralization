@@ -1,0 +1,6 @@
+# edit the number of sequences in gen_task.py and how many chains to extract for folding; we did 4 chains for folding d2 interface. See example command below
+
+/software/containers/pyrosetta.sif gen_tasks.py --input_directory ../03_mpnn/20251001_rempnn --output_directory 20251001
+cd 07_22_2024_d5_OH
+sbatch -a 1-$(cat tasks|wc -l) ../run.sh
+

@@ -1,1 +1,3 @@
+#this uses d3 monomer to generate new d2 geometry
+#save monomer chain of the d3 oligomer into a separate pdb. See input examples
 #Run the Jupyter notebook to generate sample_dihedrals.list and submit tasks

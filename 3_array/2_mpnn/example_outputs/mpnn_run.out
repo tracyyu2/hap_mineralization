@@ -1,0 +1,774 @@
+
+EnvironmentNameNotFound: Could not find conda environment: mlfold
+You can list all discoverable environments with `conda info --envs`.
+
+
+Discarded {'bad_chars': 0, 'too_long': 0, 'bad_seq_length': 0}
+Fixed positions dictionary is loaded
+PSSM is NOT loaded, or NOT provided
+Omit AA dictionary is NOT loaded, or NOT provided
+Tied positions dictionary is loaded
+AA bias dictionary is not loaded, or not provided
+Generating sequences...
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_3
+16 sequences of length 492 generated in 3.8676 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_1
+16 sequences of length 504 generated in 3.9784 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N24_C0_81_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N24_C0_81_0
+16 sequences of length 480 generated in 3.6479 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_2
+16 sequences of length 456 generated in 3.308 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_1
+16 sequences of length 456 generated in 3.2817 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_4
+16 sequences of length 492 generated in 3.7871 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_4
+16 sequences of length 468 generated in 3.473 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_2
+16 sequences of length 492 generated in 3.7939 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_0
+16 sequences of length 480 generated in 3.6326 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_4
+16 sequences of length 456 generated in 3.3199 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_3
+16 sequences of length 480 generated in 3.6317 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_3
+16 sequences of length 492 generated in 3.8061 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_1
+16 sequences of length 468 generated in 3.464 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_4
+16 sequences of length 480 generated in 3.6353 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_3
+16 sequences of length 456 generated in 3.3113 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_4
+16 sequences of length 492 generated in 3.8078 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_3
+16 sequences of length 468 generated in 3.5027 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_0
+16 sequences of length 504 generated in 3.9675 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_2
+16 sequences of length 468 generated in 3.4777 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_2
+16 sequences of length 480 generated in 3.6308 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_1
+16 sequences of length 480 generated in 3.6347 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_1
+16 sequences of length 456 generated in 3.3054 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_1
+16 sequences of length 456 generated in 3.3121 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_3
+16 sequences of length 480 generated in 3.6603 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_1
+16 sequences of length 480 generated in 3.6564 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_1
+16 sequences of length 456 generated in 3.3118 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_0
+16 sequences of length 504 generated in 3.9572 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_1
+16 sequences of length 480 generated in 3.6419 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_0
+16 sequences of length 444 generated in 3.1531 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_2
+16 sequences of length 444 generated in 3.1494 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_1
+16 sequences of length 444 generated in 3.1522 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_4
+16 sequences of length 480 generated in 3.6774 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_2
+16 sequences of length 444 generated in 3.1678 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_2
+16 sequences of length 468 generated in 3.4864 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_0
+16 sequences of length 480 generated in 3.6419 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_3
+16 sequences of length 456 generated in 3.3104 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_4
+16 sequences of length 456 generated in 3.3091 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_2
+16 sequences of length 444 generated in 3.1551 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_2
+16 sequences of length 468 generated in 3.485 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_0
+16 sequences of length 456 generated in 3.322 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_3
+16 sequences of length 468 generated in 3.4888 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_2
+16 sequences of length 468 generated in 3.4693 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_4
+16 sequences of length 468 generated in 3.4801 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_0
+16 sequences of length 468 generated in 3.4722 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_4
+16 sequences of length 444 generated in 3.1545 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_2
+16 sequences of length 456 generated in 3.3205 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_3
+16 sequences of length 492 generated in 3.8148 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_4
+16 sequences of length 448 generated in 3.2323 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_4
+16 sequences of length 456 generated in 3.301 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_4
+16 sequences of length 468 generated in 3.4896 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_1
+16 sequences of length 468 generated in 3.4737 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_3
+16 sequences of length 448 generated in 3.1999 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_2
+16 sequences of length 468 generated in 3.4777 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_3
+16 sequences of length 456 generated in 3.3071 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_3
+16 sequences of length 468 generated in 3.5077 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_4
+16 sequences of length 492 generated in 3.8195 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_1
+16 sequences of length 456 generated in 3.3133 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_0
+16 sequences of length 468 generated in 3.4837 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_0
+16 sequences of length 480 generated in 3.6517 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_3
+16 sequences of length 492 generated in 3.8051 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N30_C0_20_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N30_C0_20_1
+16 sequences of length 504 generated in 3.9636 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_1
+16 sequences of length 480 generated in 3.6446 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_1
+16 sequences of length 456 generated in 3.3533 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_4
+16 sequences of length 492 generated in 3.7946 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_0
+16 sequences of length 480 generated in 3.6496 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_0
+16 sequences of length 480 generated in 3.6488 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_3
+16 sequences of length 444 generated in 3.1702 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_3
+16 sequences of length 444 generated in 3.1813 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_3
+16 sequences of length 468 generated in 3.4803 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_2
+16 sequences of length 480 generated in 3.6873 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N27_C0_68_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N27_C0_68_2
+16 sequences of length 492 generated in 3.8282 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_4
+16 sequences of length 468 generated in 3.4884 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_0
+16 sequences of length 480 generated in 3.635 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_0
+16 sequences of length 456 generated in 3.3067 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_1
+16 sequences of length 504 generated in 3.9761 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_4
+16 sequences of length 444 generated in 3.167 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_3
+16 sequences of length 468 generated in 3.4769 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_0
+16 sequences of length 480 generated in 3.68 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_0
+16 sequences of length 456 generated in 3.3227 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_0
+16 sequences of length 456 generated in 3.3096 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_1
+16 sequences of length 504 generated in 3.9614 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_4
+16 sequences of length 468 generated in 3.4769 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_4
+16 sequences of length 492 generated in 3.8182 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_0
+16 sequences of length 468 generated in 3.4879 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_2
+16 sequences of length 468 generated in 3.5087 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_1
+16 sequences of length 468 generated in 3.4956 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_3
+16 sequences of length 492 generated in 3.8205 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_1
+16 sequences of length 480 generated in 3.633 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_2
+16 sequences of length 480 generated in 3.6311 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_2
+16 sequences of length 492 generated in 3.812 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_4
+16 sequences of length 456 generated in 3.3077 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_0
+16 sequences of length 456 generated in 3.335 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_2
+16 sequences of length 492 generated in 3.8226 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_3
+16 sequences of length 456 generated in 3.327 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_0
+16 sequences of length 456 generated in 3.3083 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_1
+16 sequences of length 480 generated in 3.6458 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N27_C0_89_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N27_C0_89_1
+16 sequences of length 492 generated in 3.7911 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_1
+16 sequences of length 468 generated in 3.4819 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_1
+16 sequences of length 480 generated in 3.6366 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_2
+16 sequences of length 492 generated in 3.8358 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_0
+16 sequences of length 468 generated in 3.5056 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_2
+16 sequences of length 448 generated in 3.2055 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_0
+16 sequences of length 444 generated in 3.1464 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_2
+16 sequences of length 456 generated in 3.3046 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_3
+16 sequences of length 468 generated in 3.4832 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_2
+16 sequences of length 468 generated in 3.49 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_0
+16 sequences of length 456 generated in 3.317 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_2
+16 sequences of length 492 generated in 3.818 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_4
+16 sequences of length 468 generated in 3.5117 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N27_C0_82_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N27_C0_82_4
+16 sequences of length 492 generated in 3.7993 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_4
+16 sequences of length 468 generated in 3.4752 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_1
+16 sequences of length 468 generated in 3.4774 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_3
+16 sequences of length 456 generated in 3.308 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_2
+16 sequences of length 468 generated in 3.4841 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_2
+16 sequences of length 444 generated in 3.1848 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N27_C0_19_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N27_C0_19_4
+16 sequences of length 492 generated in 3.8719 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_4
+16 sequences of length 456 generated in 3.3176 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_3
+16 sequences of length 468 generated in 3.4918 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N27_C0_61_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N27_C0_61_3
+16 sequences of length 492 generated in 3.8056 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_3
+16 sequences of length 444 generated in 3.1666 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_3
+16 sequences of length 468 generated in 3.5106 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_1
+16 sequences of length 456 generated in 3.3251 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_4
+16 sequences of length 468 generated in 3.5028 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_1
+16 sequences of length 480 generated in 3.6595 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_2
+16 sequences of length 456 generated in 3.3093 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_4
+16 sequences of length 444 generated in 3.1566 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_2
+16 sequences of length 480 generated in 3.6534 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N27_C0_89_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N27_C0_89_2
+16 sequences of length 492 generated in 3.8077 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_2
+16 sequences of length 468 generated in 3.4903 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_1
+16 sequences of length 492 generated in 3.8374 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_4
+16 sequences of length 480 generated in 3.6747 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_4
+16 sequences of length 456 generated in 3.3445 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_4
+16 sequences of length 444 generated in 3.194 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_3
+16 sequences of length 480 generated in 3.678 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_3
+16 sequences of length 456 generated in 3.3523 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_3
+16 sequences of length 444 generated in 3.1895 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_2
+16 sequences of length 480 generated in 3.6551 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_4
+16 sequences of length 456 generated in 3.3399 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N27_C0_26_1
+16 sequences of length 492 generated in 3.801 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_4
+16 sequences of length 468 generated in 3.5105 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_3
+16 sequences of length 468 generated in 3.4895 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_3
+16 sequences of length 444 generated in 3.1823 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_1
+16 sequences of length 448 generated in 3.2303 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_0
+16 sequences of length 468 generated in 3.5046 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_1
+16 sequences of length 456 generated in 3.3531 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_1
+16 sequences of length 468 generated in 3.5096 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_3
+16 sequences of length 456 generated in 3.3215 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_1
+16 sequences of length 468 generated in 3.4888 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_0
+16 sequences of length 468 generated in 3.4742 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_2
+16 sequences of length 468 generated in 3.4805 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_0
+16 sequences of length 456 generated in 3.3193 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_2
+16 sequences of length 480 generated in 3.6474 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_1
+16 sequences of length 456 generated in 3.3229 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N24_C0_46_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N24_C0_46_1
+16 sequences of length 480 generated in 3.6387 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_0
+16 sequences of length 444 generated in 3.1763 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_0
+16 sequences of length 468 generated in 3.4906 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_2
+16 sequences of length 456 generated in 3.3058 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_1
+16 sequences of length 480 generated in 3.6518 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_3
+16 sequences of length 456 generated in 3.3199 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_3
+16 sequences of length 480 generated in 3.645 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_4
+16 sequences of length 480 generated in 3.655 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_3
+16 sequences of length 480 generated in 3.645 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_4
+16 sequences of length 480 generated in 3.6542 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_4
+16 sequences of length 456 generated in 3.305 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_2
+16 sequences of length 444 generated in 3.1617 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_0
+16 sequences of length 444 generated in 3.1572 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_3
+16 sequences of length 444 generated in 3.1636 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N15_C0_15_0
+16 sequences of length 444 generated in 3.1718 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_0
+16 sequences of length 468 generated in 3.4807 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_4
+16 sequences of length 480 generated in 3.6531 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_2
+16 sequences of length 504 generated in 3.973 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_4
+16 sequences of length 456 generated in 3.3096 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_4
+16 sequences of length 456 generated in 3.316 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_0
+16 sequences of length 480 generated in 3.6615 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_0
+16 sequences of length 468 generated in 3.4862 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_3
+16 sequences of length 480 generated in 3.6527 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_3
+16 sequences of length 456 generated in 3.3102 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_3
+16 sequences of length 456 generated in 3.3168 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_2
+16 sequences of length 468 generated in 3.486 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_4
+16 sequences of length 468 generated in 3.4808 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_2
+16 sequences of length 480 generated in 3.6522 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_0
+16 sequences of length 492 generated in 3.8139 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_1
+16 sequences of length 492 generated in 3.8249 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N24_C0_88_1
+16 sequences of length 480 generated in 3.6434 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_3
+16 sequences of length 468 generated in 3.4816 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N18_C0_16_1
+16 sequences of length 456 generated in 3.3275 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_1
+16 sequences of length 468 generated in 3.4813 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_4
+16 sequences of length 456 generated in 3.3296 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_0
+16 sequences of length 456 generated in 3.3087 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_3
+16 sequences of length 456 generated in 3.3152 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_4
+16 sequences of length 504 generated in 3.9802 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N27_C0_61_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N27_C0_61_1
+16 sequences of length 492 generated in 3.8035 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N15_C0_36_1
+16 sequences of length 444 generated in 3.1761 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N21_C0_59_1
+16 sequences of length 468 generated in 3.4777 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_4
+16 sequences of length 480 generated in 3.6447 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_3
+16 sequences of length 456 generated in 3.3167 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N24_C0_11_3
+16 sequences of length 480 generated in 3.6583 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N18_C0_72_4
+16 sequences of length 456 generated in 3.3184 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N18_C0_65_0
+16 sequences of length 456 generated in 3.3141 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N24_C0_46_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N24_C0_46_0
+16 sequences of length 480 generated in 3.6423 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_3
+16 sequences of length 468 generated in 3.4888 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N27_C0_19_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N27_C0_19_1
+16 sequences of length 492 generated in 3.8029 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N18_C0_37_1
+16 sequences of length 456 generated in 3.3066 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N21_C0_45_4
+16 sequences of length 468 generated in 3.4895 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N21_C0_66_0
+16 sequences of length 468 generated in 3.492 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N15_C0_64_0
+16 sequences of length 444 generated in 3.183 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N21_C0_38_1
+16 sequences of length 468 generated in 3.4698 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N21_C0_73_2
+16 sequences of length 468 generated in 3.4965 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N15_C0_71_2
+16 sequences of length 444 generated in 3.1683 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N16_C0_20_0
+16 sequences of length 448 generated in 3.2049 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N18_C0_58_0
+16 sequences of length 456 generated in 3.3231 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N21_C0_10_1
+16 sequences of length 468 generated in 3.4808 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N21_C0_31_0
+16 sequences of length 468 generated in 3.4916 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N18_C0_23_2
+16 sequences of length 456 generated in 3.3189 seconds
+nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.5_0001_intra1_inter1_N24_C0_67_2
+16 sequences of length 480 generated in 3.6479 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N18_C0_44_2
+16 sequences of length 456 generated in 3.3328 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N15_C0_22_2
+16 sequences of length 444 generated in 3.1615 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_4
+16 sequences of length 480 generated in 3.6484 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_4
+16 sequences of length 468 generated in 3.4906 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N24_C0_32_3
+16 sequences of length 480 generated in 3.6558 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N21_C0_3_3
+16 sequences of length 468 generated in 3.4841 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N27_C0_75_0
+16 sequences of length 492 generated in 3.8103 seconds
+nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans0.0_0001_intra1_inter1_N24_C0_39_4
+16 sequences of length 480 generated in 3.6332 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N18_C0_51_2
+16 sequences of length 456 generated in 3.3347 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N24_C0_81_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N24_C0_81_4
+16 sequences of length 480 generated in 3.6385 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N27_C0_54_0
+16 sequences of length 492 generated in 3.8235 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N30_C0_27_2
+16 sequences of length 504 generated in 3.9624 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N18_C0_2_1
+16 sequences of length 456 generated in 3.3155 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_4
+16 sequences of length 480 generated in 3.6428 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N21_C0_52_2
+16 sequences of length 468 generated in 3.4853 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N21_C0_24_0
+16 sequences of length 468 generated in 3.491 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_4
+16 sequences of length 468 generated in 3.4865 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N21_C0_87_3
+16 sequences of length 468 generated in 3.4914 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N24_C0_74_3
+16 sequences of length 480 generated in 3.6605 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N27_C0_12_1
+16 sequences of length 492 generated in 3.8091 seconds
+nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-6.0_0001_intra1_inter1_N27_C0_33_0
+16 sequences of length 492 generated in 3.8068 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N24_C0_4_1
+16 sequences of length 480 generated in 3.634 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N21_C0_80_1
+16 sequences of length 468 generated in 3.4954 seconds
+nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.5_0001_intra1_inter1_N24_C0_60_2
+16 sequences of length 480 generated in 3.6489 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_4
+16 sequences of length 504 generated in 3.9737 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N18_C0_79_2
+16 sequences of length 456 generated in 3.3494 seconds
+nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-4.0_0001_intra1_inter1_N18_C0_9_2
+16 sequences of length 456 generated in 3.3339 seconds
+nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.0_0001_intra1_inter1_N30_C0_76_3
+16 sequences of length 504 generated in 4.0047 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N24_C0_18_2
+16 sequences of length 480 generated in 3.6602 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_3
+16 sequences of length 444 generated in 3.1795 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_4
+16 sequences of length 504 generated in 3.9809 seconds
+nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.0_0001_intra1_inter1_N15_C0_43_1
+16 sequences of length 444 generated in 3.1771 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N15_C0_78_2
+16 sequences of length 444 generated in 3.1623 seconds
+nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_1
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-3.0_0001_intra1_inter1_N21_C0_17_1
+16 sequences of length 468 generated in 3.5076 seconds
+nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_0
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.5_0001_intra1_inter1_N24_C0_53_0
+16 sequences of length 480 generated in 3.6689 seconds
+nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-5.0_0001_intra1_inter1_N18_C0_86_2
+16 sequences of length 456 generated in 3.3481 seconds
+nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_2
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-2.5_0001_intra1_inter1_N24_C0_25_2
+16 sequences of length 480 generated in 3.6591 seconds
+nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_3
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-1.5_0001_intra1_inter1_N30_C0_83_3
+16 sequences of length 504 generated in 3.9864 seconds
+nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_4
+Generating sequences for: nC9_monomer_d2_aligned_ala_trans-0.5_0001_intra1_inter1_N15_C0_1_4
+16 sequences of length 444 generated in 3.1601 seconds

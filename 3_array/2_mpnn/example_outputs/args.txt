@@ -1,0 +1,4 @@
+{
+  "input_directory": "../02_inspect_diffusion/20250404_d2_nC9",
+  "output_directory": "20250404_nC9"
+}

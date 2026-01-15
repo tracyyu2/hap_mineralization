@@ -1,0 +1,4 @@
+# we also ran in-house af3 for d2 interface folding. see example command below
+
+/software/containers/users/ikalvet/mlfold3/mlfold3_01.sif /net/software/lab/alphafold3/run_alphafold_custom.py --fasta /home/tracyy2/array_design/04_mlfold3/nC9.fa --run_data_pipeline=false --output_dir /home/tracyy2/array_design/04_mlfold3/outputs
+
