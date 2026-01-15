@@ -1,0 +1,6 @@
+outputs*/
+*.pdb
+*.cif
+*.npy
+*.pt
+
