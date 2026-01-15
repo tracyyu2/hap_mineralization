@@ -1,0 +1,4 @@
+{
+  "input_directory": "../02_select/12_12_2024_run1",
+  "output_directory": "12_12_2024_run1"
+}

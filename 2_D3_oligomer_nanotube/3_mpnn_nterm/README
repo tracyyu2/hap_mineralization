@@ -1,45 +1,8 @@
-# Edit parse_pdbs.py according to the need. for nterm:
+# This step is to do sequence design of the newly diffused backbones using mpnn
+# Edit parse_pdbs.py according to the needs for cterm. In this case, the c-terminal 61 residues were fixed. These are the residues from the original C3 design. And the n-terminal fragment will be subject to sequence design. Change the `def_fix` session to tailor your needs.
 #Edit input and output directories in prep.sh
 sbatch prep.sh
 #Wait for prep.sh to finish
-cd 07_23_2024_d5_PO4
+cd design_dir
 sbatch ../run.sh
-#make sure to git push changes of the scripts
-
-#
-def fix(save_path):
-    with open(save_path, 'r') as json_file:
-        json_list = list(json_file)
-
-    my_dict = {}
-    for json_str in json_list:
-        result = json.loads(json_str)
-
-        fixed_position_dict = {}
-        
-        # Process each PDB file in the input directory
-        pdb_file_path = os.path.join(args.input_directory, f"{result['name']}.pdb")
-        with open(pdb_file_path, 'r') as fin:
-            chain_residues = {}  # To collect residues for each chain
-            chain_a_residues = []  # To store residues of chain A
-            for lline in fin:
-                if len(lline) > 3 and lline[:4] == 'ATOM' and lline[13:15] == 'CA':
-                    chain_id = lline[21]  # Get chain identifier
-                    res_num = int(lline[22:26].strip())
-
-                    # Collect residues for chain A only
-                    if chain_id == 'A':  # Only for chain A
-                        chain_a_residues.append(res_num)
-
-            # Get the last 61 residues from chain A
-            chain_a_last_61_residues = chain_a_residues[-61:]
-
-            # Apply the last 61 residues from chain A to all chains
-            for chain_id in ['A', 'B', 'C', 'D', 'E', 'F']:  # Adjust based on your chains
-                fixed_position_dict[chain_id] = chain_a_last_61_residues
-
-        my_dict[result['name']] = fixed_position_dict
-
-    with open(args.output_directory + '/pdbs_fixed.jsonl', 'w') as f:
-        f.write(json.dumps(my_dict) + '\n')
 

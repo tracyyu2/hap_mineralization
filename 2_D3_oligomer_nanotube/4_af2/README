@@ -1,4 +1,6 @@
-# edit the number of sequences in gen_task.py and how many chains to extract for dolding
+# This step is to do af2 folding
+# edit the number of sequences in gen_task.py and how many chains to extract for folding; we did monomer folding in this step. The ones that folded were further tested with af3 using the web server: https://alphafoldserver.com/welcome. 
+# example commands for af2 monomer folding
 /software/containers/pyrosetta.sif gen_tasks_1chain.py --input_directory ../03_protein_mpnn_nterm/12_12_2024_run1_nterm --output_directory 12_12_2024_run1_nterm_1chain
 cd 07_22_2024_d5_OH
 sbatch -a 1-$(cat tasks|wc -l) ../run.sh

@@ -1,2 +1,0 @@
-/software/rosetta/latest/bin/rosetta_scripts.hdf5.linuxgccrelease -database /software/rosetta/latest/database @rosetta_scripts.flag -s /home/tracyy2/fiber_design/Dihedral/00_dihedral_rosetta/input/d5_D9_chainA_Ala.pdb -scorefile score.sc  -parser:script_vars translate_X=0 translate_Y=0 translate_Z=-63 distance=0 sym=D3_Z.sym -out:suffix _D3neg63 -parser:protocol dihedral_symmetrize_and_translate.xml -mute all
-

@@ -1,2 +1,3 @@
-#adjust RMSD values, looks like thread.py has size limit and would not finish all pdbs unless you separate them into a different folder and rerun
+#This step filters the af2 outputs based on their rmsd comparison with the design model. Adjust RMSD values.
+#example run command:
 /software/containers/pyrosetta.sif thread_1chain.py --input_directory ../05_colabfold/12_12_2024_run1_nterm_1chain --output_directory 12_12_2024_run1_nterm_1chain --reference_directory ../02_select_nterm/12_12_2024_run1_nterm
