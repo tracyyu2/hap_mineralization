@@ -1,0 +1,10 @@
+Templating and confining calcium phosphate mineralization within designed protein assemblies
+
+This repository includes scripts used to computationally design protein assemblies to template and confine hydroxyapatite mineralization. 
+1. design stage one: generate motifs that have acidic amino acid residues in desired positions to interact with target hydroxyapatite crystal.
+2. design stage two: using the motifs generated in design stage one and symmetrize and propagate the motifs into protein oligomers with C3 rotational symmetry.
+3. design stage three: design the C3 oligomers into D3 oligomers and one-dimensional nanotubes.
+4. design stage four: design the D3 oligomers into two-dimensional protein arrays/lattices.
+
+Please reach out to Tracy Yu (tracyy2@uw.edu) and Harley Pyles (pylesh@uw.edu) for questions, concerns, bugs or collaboration. Happy designing!
+
