@@ -1,7 +1,11 @@
 #generate input pdbs for RFD2 (example HAp targets are under hap_target folder)
+#prepare your crystal target: you can find inorganic crystal structures in the crystal open database
+#use vesta software to create a crystal slab of desired size and facets (an example crystal structure is in /hap_target/010_d5_tube_OH.pdb)
+#run print_coordinates.ipynb to print the coordinates of phosphate (you can change it to other moiety if you are designing against other type of crystals)
+#run renumber_residues_phosphate.ipynb to generate carboxylate tip residues surrounding your crystal target. (example pdbs are /hap_target/010_d5_tube_OH_tips.pdb and 010_d5_tube_OH_tips2.pdb)
 #in gen_inputs.py change the selections of tip residues and change the permutations of Asp (D) or Glu (E) side chains 
 python gen_inputs.py
-#check outputs under the input_motif folder, example motifs are available in 010_d5_tube_OH
+#check outputs under the input_motif folder, example motifs are available in /input_motif/010_d5_tube_OH/*.pdb)
 
 #go to /tip_atom_fm/, this dir includes scripts to set up RFD2
 #change the project name, input and output directorys in the design_campaign1_HAp.ipynb
