@@ -4,11 +4,11 @@ import json
 import os
 import numpy as np
 
-def extract_chain_bcd_sequence(line):
-    """Extract sequences for chains B, C, and D, assuming sequences are '/'-separated."""
+def extract_chain_abc_sequence(line):
+    """Extract sequences for chains A, B, C, assuming sequences are '/'-separated."""
     sequences = line.strip().split('/')
-    if len(sequences) >= 4:  # Ensure B, C, and D exist
-        return f"{sequences[1]}:{sequences[2]}:{sequences[3]}"  # Join B, C, D with ":"
+    if len(sequences) >= 3:  # Ensure ABC exist
+        return f"{sequences[0]}:{sequences[1]}:{sequences[2]}"  # Join chains with ":"
     return None
 
 parser = argparse.ArgumentParser()
@@ -32,7 +32,7 @@ os.makedirs(args.output_directory, exist_ok=True)
 with open(os.path.join(args.output_directory, 'args.txt'), 'w') as f:
     json.dump(args.__dict__, f, indent=2)
 
-nseqs = 24
+nseqs = 16
 
 fout_tasks = open(os.path.join(args.output_directory, 'tasks'), 'w')
 cnt = 0
@@ -58,11 +58,11 @@ for fa in glob(os.path.join(args.input_directory, 'output/alignments/*.fa')):
             with open(fasta_file, 'w') as fout:
                 fout.write(f">{pname}_{i}\n")
 
-                chain_bcd_seq = extract_chain_bcd_sequence(sequence_line)
-                if chain_bcd_seq:
-                    fout.write(chain_bcd_seq + '\n')
+                chain_abc_seq = extract_chain_abc_sequence(sequence_line)
+                if chain_abc_seq:
+                    fout.write(chain_abc_seq + '\n')
                 else:
-                    print(f'No chain BCD sequence found for {pname}')
+                    print(f'No chain ABC sequence found for {pname}')
                     continue
 
             fout_tasks.write(
