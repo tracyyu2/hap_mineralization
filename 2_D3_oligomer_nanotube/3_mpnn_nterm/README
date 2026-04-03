@@ -1,5 +1,5 @@
 # This step is to do sequence design of the newly diffused backbones using mpnn
-# Edit parse_pdbs.py according to the needs for cterm. In this case, the c-terminal 61 residues were fixed. These are the residues from the original C3 design. And the n-terminal fragment will be subject to sequence design. Change the `def_fix` session to tailor your needs.
+# Edit parse_pdbs.py to change the length of cterminal residues to fix
 #Edit input and output directories in prep.sh
 sbatch prep.sh
 #Wait for prep.sh to finish
