@@ -6,5 +6,24 @@ This repository includes scripts used to computationally design protein assembli
 3. design stage three: design the C3 oligomers into D3 oligomers and one-dimensional nanotubes.
 4. design stage four: design the D3 oligomers into two-dimensional protein arrays/lattices.
 
+Relevant repositories
+RFdiffusion2: https://github.com/RosettaCommons/RFdiffusion2
+
+RFdiffusion: https://github.com/RosettaCommons/RFdiffusion
+
+ProteinMPNN: https://github.com/dauparas/ProteinMPNN
+
+LigandMPNN: https://github.com/dauparas/LigandMPNN
+
+AlphaFold2: https://github.com/google-deepmind/alphafold
+
+AlphaFold3: https://alphafoldserver.com/welcome
+
+# Clone repo
+git clone https://github.com/tracyyu2/hap_mineralization
+cd hap_mineralization
+
+# go through each subdir and you will find more instructions in the README files in each subdir.
+
 Please reach out to Tracy Yu (tracyy2@uw.edu), Harley Pyles (pylesh@uw.edu) and Neville Bethel (nbethel@ucsd.edu) for questions, concerns, bugs or collaboration. Happy designing!
 
